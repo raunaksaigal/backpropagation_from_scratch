@@ -9,7 +9,7 @@ A backpropagation algorithm developed from scratch. Based on numpy, pandas and m
 
 ## How to download
 
-To download and install the follow the steps below. You may create a virtual environment prior to creation. 
+To download and install the follow the steps below. You may create a virtual environment prior to module installation. 
 
 
 ```
